@@ -42,3 +42,4 @@ LIVRE!
 
 - **Nome**: André (4ndredev21) Mendes
 - **GitHub**: [Seu Perfil GitHub](https://github.com/4ndredev21)
+- **linkedin**: [Seu Perfil linkedin](https://github.com/4ndredev21)
